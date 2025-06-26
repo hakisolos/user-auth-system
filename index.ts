@@ -1,3 +1,5 @@
+
+// i use bun cus node is gay >_<
 import app from "./src/server";
 import config from "./config";
 Bun.serve({

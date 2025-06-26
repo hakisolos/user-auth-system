@@ -47,7 +47,7 @@ You can find these in your Supabase project → Settings → API.
 ## 🛠️ Run the Dev Server
 
 ```bash
-bun run dev
+bun index.ts
 ```
 
 Server will be running on `http://localhost:3000`
@@ -115,6 +115,10 @@ Wanna add some love to the codebase? Fork it, push your changes, and open a pull
 
 > shell haki [about](https://www.hakidev.my.id) a
 
+---
+
 ## 📄 License
 
 MIT © [Shell haki](https://github.com/hakisolos)
+
+
